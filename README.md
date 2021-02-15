@@ -1,2 +1,2 @@
 # Hello-World
-A test repository
+Hello, I am learning to code
